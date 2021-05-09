@@ -1,0 +1,117 @@
+.banner{
+	margin:auto;
+	width:720px;
+	height:300px;
+	background-image:url("assets/main-banner.png");
+	background-size:contain;
+	position:relative;
+	overflow:auto;
+}
+
+.main{
+	margin:auto;
+	width:720px;
+	height:765px;
+	text-align:center;
+}
+
+.container{
+	height:400px;
+	width:720px;
+	margin:45px;
+}
+
+.services{
+	height:268px;
+	width:190px;
+	margin:15px;
+	float:left;
+	text-align:left;
+	border-radius:4px;
+	box-shadow: 0 0 2px 0.5px rgba(0, 0, 0, 0.18);
+}
+
+.bannerImage{
+	width:720px;
+	height:34px;
+	position:absolute;
+	bottom:0;
+}
+.bannerImage img{
+	width:720px;
+	height:34px;
+}
+.serviceImage{
+	width:190px;
+	height:133px;
+	background-size:contain;
+}
+
+.bannerContent{
+	color:#FFFFFF;
+	margin-left:110px;
+	margin-top:88px;
+}
+
+.bannerContent h1{
+	font-family:Quicksand, sans-serif;
+	font-weight:700;
+	font-size:22.5px;
+}
+
+.bannerContent h2{
+	font-family:Quicksand, sans-serif;
+	font-weight:500;
+	font-size:12px;
+}
+
+.learnMoreButton{
+	height:24px;
+	width:83.5px;
+	border:none;
+	border-radius:2px;
+	background-color: #DE6C17;
+	font-family:Quicksand, sans-serif;
+	font-weight:700;
+	font-size:9px;
+	color:#FFFFFF;
+}
+
+.main h1{
+	font-family:Quicksand, sans-serif;
+	font-weight:700;
+	font-size:22.5px;
+	color:#36413C;
+}
+
+.main h2{
+	font-family:Quicksand, sans-serif;
+	font-weight:500;
+	font-size:12px;
+	color:#5E6E66;
+}
+
+.services h1{
+	font-family:Quicksand, sans-serif;
+	font-weight:bold;
+	font-size:14px;
+	color:#36413C;
+}
+
+.services p{
+	font-family:Quicksand, sans-serif;
+	font-weight:500;
+	font-size:9px;
+	color:#5E6E66;
+}
+
+.services a{
+	font-family:Quicksand, sans-serif;
+	font-weight:bold;
+	font-size:9px;
+	color:#de6c17;
+}
+
+.serviceText{
+	padding: 0px 12px 0px;
+}
